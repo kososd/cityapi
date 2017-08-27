@@ -1,0 +1,11 @@
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.deps.json
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.json
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.runtimeconfig.dev.json
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.dll
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\bin\Debug\netcoreapp2.0\CityInfo.API.pdb
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csprojResolveAssemblyReference.cache
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.csproj.CoreCompileInputs.cache
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfoInputs.cache
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.dll
+D:\Projects\PluraSight\CityInfo.API\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.pdb
